@@ -41,6 +41,9 @@ Designed from scratch, inspired by fishing mechanics in games like New World and
 - Fish catching animation
 - Water splash effects
 - 2D ui positioning locked to fishe's world position
+- Fish Depth Deeper water means better fish
+- Different bait
+
   
 <img width="400px" src="./.github/mechanics.gif" alt="Unique UI">
 
